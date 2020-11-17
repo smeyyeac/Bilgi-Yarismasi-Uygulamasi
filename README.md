@@ -1,2 +1,2 @@
 # Bilgi-Yarismasi-Uygulamasi
-Oyun motoru kullanılmamıştır.
+Android de yazılmıstır.Oyun motoru kullanılmamıştır.
